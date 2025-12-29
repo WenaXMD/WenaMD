@@ -1,4 +1,4 @@
-https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&multiline=true&width=435&lines=Welcome+%F0%9F%98%8A+to+GiftedMD_BOT+powered+by+wena_;Thanks+for+the+star+%F0%9F%8C%9F
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&multiline=true&width=435&lines=Welcome+%F0%9F%98%8A+to+GiftedMD_BOT+powered+by+wena_;Thanks+for+the+star+%F0%9F%8C%9F)](https://git.io/typing-svg)
 ---
 
 📁 GitHub Repo Structure:
